@@ -13,10 +13,10 @@ const ANOMALY_TYPES = ['All', ...new Set(potholes.map(p => p.anomaly_type))]
 const ROAD_NAMES = ['All', ...new Set(potholes.map(p => p.road_name))]
 const SEVERITIES = ['All', 'Critical', 'High', 'Medium', 'Low']
 
-function FlyToChennai() {
+function FlyToBengaluru() {
   const map = useMap()
   useEffect(() => {
-    map.setView([13.0569, 80.2425], 12)
+    map.setView([12.9716, 77.5946], 12)
   }, [map])
   return null
 }
@@ -85,11 +85,11 @@ export default function RoadMap() {
       {/* Map */}
       <div className="flex-1 rounded-xl overflow-hidden border border-slate-200 shadow-sm" style={{ minHeight: '600px' }}>
         <MapContainer
-          center={[13.0569, 80.2425]}
+          center={[12.9716, 77.5946]}
           zoom={12}
           style={{ height: '100%', width: '100%', minHeight: '600px' }}
         >
-          <FlyToChennai />
+          <FlyToBengaluru />
           <TileLayer
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

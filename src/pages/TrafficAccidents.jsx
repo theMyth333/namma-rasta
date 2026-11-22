@@ -138,12 +138,11 @@ export default function TrafficAccidents() {
                 <tr key={t.id} className="hover:bg-slate-50">
                   <td className="px-4 py-3 font-medium text-slate-800">{t.road_name}</td>
                   <td className="px-4 py-3 text-slate-600">
-                    {/* Look up area from road name */}
-                    {['Anna Salai', 'Jawaharlal Nehru Road', 'Nungambakkam High Road'].includes(t.road_name) ? 'Central' :
-                     ['Rajiv Gandhi Salai (OMR)', 'Velachery Main Road'].includes(t.road_name) ? 'South' :
-                     ['Poonamallee High Road', 'Arcot Road'].includes(t.road_name) ? 'West' :
-                     ['Tambaram–Velachery Road'].includes(t.road_name) ? 'South-West' :
-                     ['Sardar Patel Road'].includes(t.road_name) ? 'Adyar' : 'East'}
+                    {['MG Road', 'Cunningham Road'].includes(t.road_name) ? 'Central' :
+                     ['Hosur Road (NH 44)', 'Bannerghatta Road'].includes(t.road_name) ? 'South' :
+                     ['Tumkur Road (NH 48)', 'Bellary Road (NH 44)'].includes(t.road_name) ? 'North' :
+                     ['Mysuru Road (NH 275)'].includes(t.road_name) ? 'West' :
+                     ['Sarjapur Road'].includes(t.road_name) ? 'South-East' : 'East'}
                   </td>
                   <td className="px-4 py-3">
                     <span className={`text-xs font-semibold px-2 py-0.5 rounded-full ${

@@ -18,7 +18,7 @@ export default function TopBar({ pageLabel }) {
         {/* Location */}
         <div className="flex items-center gap-1.5 text-sm text-slate-600 bg-slate-100 px-3 py-1.5 rounded-full">
           <MapPin className="w-3.5 h-3.5 text-blue-600" />
-          <span className="font-medium">Chennai, TN</span>
+          <span className="font-medium">Bengaluru, KA</span>
         </div>
 
         {/* Last update */}

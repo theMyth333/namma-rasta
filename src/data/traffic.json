@@ -2,101 +2,101 @@
   {
     "id": "TR001",
     "road_id": "RD001",
-    "road_name": "Anna Salai",
+    "road_name": "Outer Ring Road (ORR)",
     "density": "High",
-    "avg_daily_vehicles": 85000,
+    "avg_daily_vehicles": 95000,
     "peak_period": "08:00–10:00, 17:30–20:00",
     "congestion_level": "Severe",
-    "avg_speed_kmh": 22
+    "avg_speed_kmh": 20
   },
   {
     "id": "TR002",
     "road_id": "RD002",
-    "road_name": "Rajiv Gandhi Salai (OMR)",
+    "road_name": "Hosur Road (NH 44)",
     "density": "High",
-    "avg_daily_vehicles": 72000,
+    "avg_daily_vehicles": 78000,
     "peak_period": "08:30–10:30, 18:00–20:30",
     "congestion_level": "High",
-    "avg_speed_kmh": 35
+    "avg_speed_kmh": 32
   },
   {
     "id": "TR003",
     "road_id": "RD003",
-    "road_name": "Poonamallee High Road",
+    "road_name": "Tumkur Road (NH 48)",
     "density": "High",
-    "avg_daily_vehicles": 68000,
+    "avg_daily_vehicles": 71000,
     "peak_period": "07:30–09:30, 17:00–19:30",
     "congestion_level": "High",
-    "avg_speed_kmh": 28
+    "avg_speed_kmh": 26
   },
   {
     "id": "TR004",
     "road_id": "RD004",
-    "road_name": "Velachery Main Road",
+    "road_name": "Bannerghatta Road",
     "density": "Medium",
-    "avg_daily_vehicles": 42000,
+    "avg_daily_vehicles": 46000,
     "peak_period": "09:00–10:30, 18:00–20:00",
-    "congestion_level": "Moderate",
-    "avg_speed_kmh": 32
-  },
-  {
-    "id": "TR005",
-    "road_id": "RD005",
-    "road_name": "Tambaram–Velachery Road",
-    "density": "Medium",
-    "avg_daily_vehicles": 38000,
-    "peak_period": "08:00–10:00, 17:30–19:30",
     "congestion_level": "Moderate",
     "avg_speed_kmh": 30
   },
   {
+    "id": "TR005",
+    "road_id": "RD005",
+    "road_name": "Old Madras Road (NH 75)",
+    "density": "High",
+    "avg_daily_vehicles": 62000,
+    "peak_period": "08:00–10:00, 17:30–19:30",
+    "congestion_level": "High",
+    "avg_speed_kmh": 28
+  },
+  {
     "id": "TR006",
     "road_id": "RD006",
-    "road_name": "Jawaharlal Nehru Road",
+    "road_name": "MG Road",
     "density": "Medium",
-    "avg_daily_vehicles": 31000,
+    "avg_daily_vehicles": 35000,
     "peak_period": "09:00–11:00, 16:30–18:30",
-    "congestion_level": "Low",
-    "avg_speed_kmh": 45
+    "congestion_level": "Moderate",
+    "avg_speed_kmh": 18
   },
   {
     "id": "TR007",
     "road_id": "RD007",
-    "road_name": "Nungambakkam High Road",
-    "density": "Medium",
-    "avg_daily_vehicles": 28000,
+    "road_name": "Cunningham Road",
+    "density": "Low",
+    "avg_daily_vehicles": 22000,
     "peak_period": "09:00–10:30, 17:00–19:00",
     "congestion_level": "Low",
-    "avg_speed_kmh": 42
+    "avg_speed_kmh": 38
   },
   {
     "id": "TR008",
     "road_id": "RD008",
-    "road_name": "Sardar Patel Road",
-    "density": "Low",
-    "avg_daily_vehicles": 22000,
-    "peak_period": "08:30–10:00, 17:30–19:00",
-    "congestion_level": "Low",
-    "avg_speed_kmh": 48
+    "road_name": "Sarjapur Road",
+    "density": "High",
+    "avg_daily_vehicles": 58000,
+    "peak_period": "08:30–10:00, 17:30–20:00",
+    "congestion_level": "High",
+    "avg_speed_kmh": 24
   },
   {
     "id": "TR009",
     "road_id": "RD009",
-    "road_name": "Kamarajar Salai (Marina)",
-    "density": "Low",
-    "avg_daily_vehicles": 18000,
+    "road_name": "Bellary Road (NH 44)",
+    "density": "Medium",
+    "avg_daily_vehicles": 42000,
     "peak_period": "07:00–09:00, 17:00–19:00",
-    "congestion_level": "Low",
-    "avg_speed_kmh": 55
+    "congestion_level": "Moderate",
+    "avg_speed_kmh": 45
   },
   {
     "id": "TR010",
     "road_id": "RD010",
-    "road_name": "Arcot Road",
+    "road_name": "Mysuru Road (NH 275)",
     "density": "High",
-    "avg_daily_vehicles": 55000,
+    "avg_daily_vehicles": 68000,
     "peak_period": "08:00–10:00, 17:30–20:00",
     "congestion_level": "High",
-    "avg_speed_kmh": 25
+    "avg_speed_kmh": 22
   }
 ]
