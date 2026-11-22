@@ -1,6 +1,8 @@
 # 🛣️ NammaRasta
 ### *Smarter Roads. Safer Journeys.*
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-namma--rasta.vercel.app-blue?style=for-the-badge)](https://namma-rasta.vercel.app/)
+
 > A smart road monitoring and maintenance intelligence platform that transforms everyday vehicle journeys into a distributed road-condition network — built for Bengaluru's urban road infrastructure.
 
 ---
