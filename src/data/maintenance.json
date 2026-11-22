@@ -1,0 +1,134 @@
+[
+  {
+    "id": "MH001",
+    "road_id": "RD001",
+    "road_name": "Anna Salai",
+    "date": "2022-03-15",
+    "type": "Full Resurfacing",
+    "contractor": "Tamil Nadu Road Corp",
+    "cost_lakhs": 42.5,
+    "status": "Completed",
+    "notes": "Full stretch resurfacing with bituminous mix"
+  },
+  {
+    "id": "MH002",
+    "road_id": "RD001",
+    "road_name": "Anna Salai",
+    "date": "2020-11-01",
+    "type": "Pothole Patching",
+    "contractor": "Chennai Corp Dept",
+    "cost_lakhs": 8.2,
+    "status": "Completed",
+    "notes": "Emergency patching – 24 potholes fixed"
+  },
+  {
+    "id": "MH003",
+    "road_id": "RD002",
+    "road_name": "Rajiv Gandhi Salai (OMR)",
+    "date": "2023-01-20",
+    "type": "Partial Resurfacing",
+    "contractor": "TNHB Contractors",
+    "cost_lakhs": 28.0,
+    "status": "Completed",
+    "notes": "Resurfaced km 0–10 stretch"
+  },
+  {
+    "id": "MH004",
+    "road_id": "RD003",
+    "road_name": "Poonamallee High Road",
+    "date": "2021-07-10",
+    "type": "Full Resurfacing",
+    "contractor": "PWD Tamil Nadu",
+    "cost_lakhs": 55.0,
+    "status": "Completed",
+    "notes": "Full length resurfacing; deteriorated rapidly due to heavy traffic"
+  },
+  {
+    "id": "MH005",
+    "road_id": "RD003",
+    "road_name": "Poonamallee High Road",
+    "date": "2024-01-01",
+    "type": "Emergency Patching",
+    "contractor": "GCC Emergency Team",
+    "cost_lakhs": 3.5,
+    "status": "Scheduled",
+    "notes": "Critical potholes to be addressed on priority – scheduled Q1 2026"
+  },
+  {
+    "id": "MH006",
+    "road_id": "RD004",
+    "road_name": "Velachery Main Road",
+    "date": "2023-06-05",
+    "type": "Pothole Patching",
+    "contractor": "Velachery Zone Corp",
+    "cost_lakhs": 6.8,
+    "status": "Completed",
+    "notes": "Patched 12 potholes along main stretch"
+  },
+  {
+    "id": "MH007",
+    "road_id": "RD005",
+    "road_name": "Tambaram–Velachery Road",
+    "date": "2022-11-18",
+    "type": "Partial Resurfacing",
+    "contractor": "South Chennai Infra Ltd",
+    "cost_lakhs": 19.5,
+    "status": "Completed",
+    "notes": "Partial resurfacing of high-damage sections"
+  },
+  {
+    "id": "MH008",
+    "road_id": "RD006",
+    "road_name": "Jawaharlal Nehru Road",
+    "date": "2024-01-10",
+    "type": "Full Resurfacing",
+    "contractor": "GCC Central Zone",
+    "cost_lakhs": 15.0,
+    "status": "Completed",
+    "notes": "Road in good condition post resurfacing"
+  },
+  {
+    "id": "MH009",
+    "road_id": "RD007",
+    "road_name": "Nungambakkam High Road",
+    "date": "2023-09-22",
+    "type": "Pothole Patching",
+    "contractor": "GCC Central Zone",
+    "cost_lakhs": 4.5,
+    "status": "Completed",
+    "notes": "Minor patching work"
+  },
+  {
+    "id": "MH010",
+    "road_id": "RD008",
+    "road_name": "Sardar Patel Road",
+    "date": "2023-04-14",
+    "type": "Pothole Patching",
+    "contractor": "Adyar Zone Corp",
+    "cost_lakhs": 5.2,
+    "status": "Completed",
+    "notes": "Patching of 8 potholes"
+  },
+  {
+    "id": "MH011",
+    "road_id": "RD009",
+    "road_name": "Kamarajar Salai (Marina)",
+    "date": "2024-03-01",
+    "type": "Full Resurfacing",
+    "contractor": "GCC East Zone",
+    "cost_lakhs": 22.0,
+    "status": "Completed",
+    "notes": "Full resurfacing – road in excellent condition"
+  },
+  {
+    "id": "MH012",
+    "road_id": "RD010",
+    "road_name": "Arcot Road",
+    "date": "2022-08-28",
+    "type": "Partial Resurfacing",
+    "contractor": "PWD Tamil Nadu",
+    "cost_lakhs": 24.0,
+    "status": "Completed",
+    "notes": "Partial resurfacing; potholes re-emerging due to heavy vehicle traffic"
+  }
+]
